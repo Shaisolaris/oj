@@ -17,3 +17,5 @@ Gemfile.lock
 vendor
 gemfiles/*.lock
 tmp
+config.bat
+node_modules
